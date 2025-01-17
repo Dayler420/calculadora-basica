@@ -55,3 +55,4 @@ public class Calculadora {
         scanner.close();
     }
 }
+System.out.println("¡Gracias por usar la Calculadora Básica!");
