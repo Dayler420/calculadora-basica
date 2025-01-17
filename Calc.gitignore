@@ -1,0 +1,6 @@
+# Ignorar archivos compilados de Java
+*.class
+
+# Ignorar configuraciones locales de IDEs
+.idea/
+.vscode/
